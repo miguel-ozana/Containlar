@@ -1,0 +1,12 @@
+{
+  "name": "containlar",
+  "version": "1.0.0",
+  "description": "website criado para fins educacionais da equipe de robótica Alpha Byte que participa do torneio de robótica 2021",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
